@@ -24,7 +24,8 @@
                 android:padding="12dp"
                 android:src="@drawable/close"
                 android:textColor="#FFF"
-                android:textSize="24sp"/>
+                android:textSize="24sp"
+            android:layout_marginLeft="8dp" />
 
         <TextView
                 android:layout_width="match_parent"
